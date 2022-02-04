@@ -26,7 +26,7 @@ namespace Udemyyyyy
 					Console.WriteLine("The product of the numbers is " + multiplication);
 
 				//for division
-					int division = fNumber / sNumber;
+					double division = fNumber / sNumber;
 					Console.WriteLine("The answer for dividing the two numbers is " + division);
 			        }
     }
