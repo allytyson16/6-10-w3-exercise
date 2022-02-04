@@ -15,19 +15,19 @@ namespace Udemyyyyy
 
 				//for adding
 					int add = fNumber + sNumber;
-					Console.WriteLine("The sum of the numbers are " + add);
+					Console.WriteLine("The sum of the numbers is " + add);
 
 				//for subtraction
 					int difference = fNumber - sNumber;
-					Console.WriteLine("The difference of the numbers are " + difference);
+					Console.WriteLine("The difference of the numbers is " + difference);
 
 				//for multiplication
 					int multiplication = fNumber * sNumber;
-					Console.WriteLine("The product of the numbers are " + multiplication);
+					Console.WriteLine("The product of the numbers is " + multiplication);
 
 				//for division
 					int division = fNumber / sNumber;
-					Console.WriteLine("The answer for dividing the two numbers are " + division);
+					Console.WriteLine("The answer for dividing the two numbers is " + division);
 			        }
     }
 }
