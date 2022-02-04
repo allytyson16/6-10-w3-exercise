@@ -22,11 +22,11 @@ namespace Udemyyyyy
 					Console.WriteLine("The difference of the numbers are " + difference);
 
 				//for multiplication
-					int multiplication = fNumber - sNumber;
+					int multiplication = fNumber * sNumber;
 					Console.WriteLine("The product of the numbers are " + multiplication);
 
 				//for division
-					int division = fNumber - sNumber;
+					int division = fNumber / sNumber;
 					Console.WriteLine("The answer for dividing the two numbers are " + division);
 			        }
     }
