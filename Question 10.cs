@@ -20,7 +20,7 @@ namespace Udemyyyyy
 			double output2 = x * y + y * z;
 
 			Console.WriteLine("The output of (first number ({0}) + second number ({1})) * third number ({2}) is ({3}).", x, y, z, output1);
-			Console.WriteLine("The putput of first number ({0}) * second number ({1}) + second number ({2}) * third number ({3}) is ({4}).", x, y, y, z, output2);
+			Console.WriteLine("The putput of first number ({0}) * second number ({1}) + second number ({2}) * third number ({3}) is {4}.", x, y, y, z, output2);
         }
     }
 }
